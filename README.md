@@ -48,5 +48,4 @@ Open the notebook in Jupyter or Colab and run it end to end.
 
 
 
-Made with ❤️ and patience by Vedant Mittal
 
